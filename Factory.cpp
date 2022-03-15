@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-/////////--9.2. Factory (lambda)--/////////
+/////////--9.2. Factory --/////////
 class Food{
 protected:
     int calories;
